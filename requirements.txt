@@ -1,5 +1,4 @@
 
-android==1.0
 anyio==3.7.1
 astroid==2.8.0
 audiostream==0.2
