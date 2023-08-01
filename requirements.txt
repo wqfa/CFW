@@ -1,7 +1,6 @@
 
 anyio==3.7.1
 astroid==2.8.0
-audiostream==0.2
 beautifulsoup4==4.12.2
 blinker==1.6.2
 bs4==0.0.1
