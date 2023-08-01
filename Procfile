@@ -1,1 +1,1 @@
-worker: python cfc.py
+worker: python main.py
