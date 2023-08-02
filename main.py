@@ -3,7 +3,7 @@ import json
 import telebot
 from telebot import types
 
-token = input(" ENTER YOUR TOKEN : ")
+token = '6150301378:AAHS7qgCHvmG4Q6RnlwfilC2e2Km6bYpj-M'
 bot = telebot.TeleBot(token)
 print('\033[2;32m\n \n        run')
 
