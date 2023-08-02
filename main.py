@@ -31,7 +31,7 @@ def welcome(message):
  xx.add(my)
  name = message.chat.first_name
  
- bot.reply_to(message,f'''اهلن {name}
+ bot.reply_to(message,f'''هلا {name}
 انا بوت اعطيك فيز بلاش فقط قم بأرسال
 ـ  /visa''',reply_markup=xx)
 
